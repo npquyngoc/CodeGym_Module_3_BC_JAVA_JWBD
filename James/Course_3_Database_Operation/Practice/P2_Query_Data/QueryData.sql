@@ -3,7 +3,7 @@ USE `student_management`;
 SELECT * FROM `student`;
 
 SELECT * FROM `student`
-WHERE `student_status` = false;
+WHERE `student_status` = true;
 
 SELECT * FROM `subject`
 WHERE `subject_credit` < 10;
