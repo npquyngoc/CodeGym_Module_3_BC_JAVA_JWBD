@@ -1,0 +1,9 @@
+p {font-family: sans-serif}
+.text {text-indent: 40px}
+
+.format-color {color: dodgerblue}
+#blue {
+    color: #0303c4;
+    underline;
+}
+/**/
