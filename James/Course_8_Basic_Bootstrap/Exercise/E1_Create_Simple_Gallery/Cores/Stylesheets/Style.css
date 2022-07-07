@@ -56,7 +56,7 @@ div .description
 
 .clearfix:after
 {
-	display: table;
+    display: table;
 
     content: "";
     clear: both;
