@@ -28,8 +28,8 @@ div .description
 .responsive
 {
     width: 25%;
-	float: left;
-	padding: 0 6px;
+    float: left;
+    padding: 0 6px;
 }
 
 #gallery_text
@@ -41,7 +41,7 @@ div .description
 {
     .responsive
     {
-		width: 50%;
+	width: 50%;
         margin: 6px 0;
     }
 }
